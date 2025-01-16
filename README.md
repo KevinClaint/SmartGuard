@@ -4,9 +4,13 @@ SmartGuard: An LLM-Enhanced Framework for Smart Contract Vulnerability Detection
 The citation in BibTeX format is as follows:
 
 ```bibtex
-@article{ding4989946smartguard,
-  title={Smartguard: An Llm-Enhanced Framework for Smart Contract Vulnerability Detection},
-  author={Ding, Hao and Liu, Yizhou and Piao, Xuefeng and Song, Huihui and Ji, Zhenzhou},
-  journal={Available at SSRN 4989946}
+@article{DING2025126479,
+    title = {SmartGuard: An LLM-enhanced framework for smart contract vulnerability detection},
+    journal = {Expert Systems with Applications},
+    volume = {269},
+    pages = {126479},
+    year = {2025},
+    doi = {https://doi.org/10.1016/j.eswa.2025.126479},
+    author = {Hao Ding and Yizhou Liu and Xuefeng Piao and Huihui Song and Zhenzhou Ji}
 }
 ```
